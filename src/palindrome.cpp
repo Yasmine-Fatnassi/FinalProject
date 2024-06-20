@@ -1,6 +1,18 @@
 #include "palindrome.h"
 #include <bits/stdc++.h>
 
+/**
+ * @file palindrome.cpp
+ * @brief implementation of isPalindrome function
+ */
+ 
+/**
+ * @fn isPalindrome
+ * @brief Vérifier si une chaîne de caractères est un palindrome.
+ * @param une chaîne de caractères
+ * @return true ou false
+ */ 
+
 using namespace std;
 
 bool isPalindrome(string S)

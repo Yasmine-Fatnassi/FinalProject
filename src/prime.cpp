@@ -1,5 +1,16 @@
 #include "prime.h"
 #include <cmath>
+/**
+ * @file prime.cpp
+ * @brief implementation of isPrime function
+ */
+ 
+/**
+ * @fn isPrime
+ * @brief Vérifier si un nombre entier est un nombre premier.
+ * @param n un integer
+ * @return true ou false
+ */ 
 
 bool isPrime(int n) {
     if (n <= 1) return false;
