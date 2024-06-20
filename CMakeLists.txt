@@ -7,4 +7,7 @@ add_executable(MyFinalProject main.cpp)
 
 target_link_libraries(MyFinalProject mylibrary)
 
+enable_testing()
+
 add_subdirectory(src)
+add_subdirectory(tests)
