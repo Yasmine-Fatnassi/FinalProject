@@ -1,0 +1,22 @@
+\hypertarget{prime_8cpp}{}\doxysection{/home/runner/work/\+Final\+Project/\+Final\+Project/src/prime.cpp File Reference}
+\label{prime_8cpp}\index{/home/runner/work/FinalProject/FinalProject/src/prime.cpp@{/home/runner/work/FinalProject/FinalProject/src/prime.cpp}}
+
+
+implementation of is\+Prime function  
+
+
+{\ttfamily \#include \char`\"{}prime.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$cmath$>$}\newline
+Include dependency graph for prime.\+cpp\+:
+% FIG 0
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{prime_8cpp_ab31541ab88aebece242f24e54b622ba4}\label{prime_8cpp_ab31541ab88aebece242f24e54b622ba4}} 
+bool {\bfseries is\+Prime} (int n)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+implementation of is\+Prime function 
+
